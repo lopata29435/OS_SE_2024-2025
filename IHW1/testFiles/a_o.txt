@@ -1,0 +1,5 @@
+int: 28
+return: 6
+if: 4
+else: 0
+while: 3

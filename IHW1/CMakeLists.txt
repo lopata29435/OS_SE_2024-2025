@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.10)
+project(CKeywordCounter C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(M04 04-mark/04-mark.c)
+add_executable(M05 05-mark/05-mark.c)
+add_executable(M06 06-mark/06-mark.c)
+add_executable(M07 07-mark/07-mark.c)
+add_executable(M08RW 08-mark/08-mark-reader-writer.c)
+add_executable(M08P 08-mark/08-mark-processor.c)
+add_executable(M09RW 09-mark/09-mark-reader-writer.c)
+add_executable(M09P 09-mark/09-mark-processor.c)
+add_executable(M10RW 10-mark/10-mark-reader-writer.c)
+add_executable(M10P 10-mark/10-mark-processor.c)
